@@ -50,7 +50,7 @@ Hola, soy Lucifer (no el de Netflix, pero casi 😈). Me apasiona el mundo de la
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height: 4rem; background-color:white"/>
+<img src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-512.png" style="height: 4rem; background-color:white"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" style="height: 4rem"/>
 
@@ -58,10 +58,10 @@ Hola, soy Lucifer (no el de Netflix, pero casi 😈). Me apasiona el mundo de la
 
 ## <picture> <img src="https://media1.giphy.com/media/lTY1jPVAygPCNbVKRo/giphy.gif?cid=a267dfa314g6stdv7idml2nrcv6a91qh9yso59jhj7f4rbly&rid=giphy.gif&ct=s" width="40px"> </picture> Mis redes:
 <p align="center">
-<a href="https://x.com/IamAntonioHP" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mrakhilg" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/antonio-puerto-heredia-2794512a0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akhilgkrishnan" height="30" width="30" /></a>
-<a href="https://www.facebook.com/IamAntonioHP" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akhilgkrishnan9800" height="30" width="30" /></a>
-<a href="https://www.instagram.com/antonio_herediia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="akhilgkrishnan" height="30" width="30" /></a>
+<a href="https://x.com/IamAntonioHP" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-icon.png" alt="mrakhilg" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/antonio-puerto-heredia-2794512a0/" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-white-icon.png" alt="akhilgkrishnan" height="30" width="30" /></a>
+<a href="https://www.facebook.com/IamAntonioHP" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/facebook-app-round-white-icon.png" alt="akhilgkrishnan9800" height="30" width="30" /></a>
+<a href="https://www.instagram.com/antonio_herediia/" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/instagram-white-icon.png" alt="akhilgkrishnan" height="30" width="30" /></a>
 </p>
 
 </br></br>
